@@ -1,0 +1,21 @@
+[Manual paragraph 1549] Ex. No:10                  DISK SCHEDULING ALGORITHMS                      Date:
+[Manual paragraph 1552] Write a C program to simulate disk scheduling algorithms. a) FCFS b) SCAN c) C-SCAN
+[Manual paragraph 1554] a.)FCFS ALGORITHM
+[Manual paragraph 1555] Start the program.
+[Manual paragraph 1571] Stop the program.
+[Manual paragraph 1573] PROGRAM
+[Manual paragraph 1574] #include <stdio.h>
+[Manual paragraph 1575] #include <stdlib.h>
+[Manual paragraph 1576] int main()
+[Manual paragraph 1619] b.)SCAN SCHEDULING ALGORITHM
+[Manual paragraph 1621] Algorithm
+[Manual paragraph 1645] PROGRAM
+[Manual paragraph 1646] #include <stdio.h>
+[Manual paragraph 1647] int main()
+[Manual paragraph 1736] C.)C-SCAN SCHEDULING ALGORITHM
+[Manual paragraph 1737] ALGORITHM:
+[Manual paragraph 1754] PROGRAM:
+[Manual paragraph 1755] #include <stdio.h>
+[Manual paragraph 1756] #include <stdlib.h>
+[Manual paragraph 1758] int main()
+[Manual paragraph 1891] Thus, the program to simulate disk scheduling algorithms. a) FCFS b) SCAN c) C-SCAN have been implemented and the output was verified successfully

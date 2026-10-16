@@ -1,0 +1,18 @@
+[Manual paragraph 769] Ex.No:6A         DEAD LOCK AVOIDANCE USING BANKERS ALGORITHM	Date :
+[Manual paragraph 770] AIM: To implement deadlock avoidance by using Banker‟s Algorithm.
+[Manual paragraph 779] Safety Algorithm
+[Manual paragraph 788] ALGORITHM:
+[Manual paragraph 789] Start the program.
+[Manual paragraph 797] Stop the program.
+[Manual paragraph 799] PROGRAM
+[Manual paragraph 800] #include <stdio.h> int main() {
+[Manual paragraph 825] // Banker's Algorithm do {
+[Manual paragraph 867] Thus, the program for deadlock avoidance by using Banker‟s Algorithm has been implemented and the output was verified successfully.
+[Manual paragraph 871] Ex.No:6B       DEAD LOCK DETECTION USING BANKERS ALGORITHIM	Date :
+[Manual paragraph 872] AIM: To implement deadlock detection by using Banker‟s Algorithm.
+[Manual paragraph 873] ALGORITHM:
+[Manual paragraph 874] Start the program.
+[Manual paragraph 883] Stop the program.
+[Manual paragraph 885] PROGRAM
+[Manual paragraph 886] #include <stdio.h> int main() {
+[Manual paragraph 934] Thus, the program for deadlock detection by using Banker‟s Algorithm has been implemented and the output was verified successfully.

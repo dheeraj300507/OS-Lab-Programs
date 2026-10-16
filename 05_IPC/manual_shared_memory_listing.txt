@@ -1,0 +1,9 @@
+[Manual paragraph 714] Ex No: 5     INTER PROCESS COMMUNICATION USING SHARED MEMORY	Date : AIM:
+[Manual paragraph 715] To write a program to implement inter process communication using shared memory
+[Manual paragraph 717] ALGORITHM:
+[Manual paragraph 723] PROGRAM:
+[Manual paragraph 724] include <sys/types.h> #include <sys/ipc.h> #include <sys/shm.h> #include <sys/wait.h>
+[Manual paragraph 725] #include <unistd.h> // for fork() #include <stdio.h>
+[Manual paragraph 726] #include <stdlib.h> #define SHMSZ 27
+[Manual paragraph 727] int main() { char c;
+[Manual paragraph 766] Thus, the program for interprocess communication using shared memory been implemented and the output was verified successfully.

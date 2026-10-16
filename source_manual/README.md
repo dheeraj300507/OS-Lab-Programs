@@ -1,0 +1,1 @@
+Original uploaded lab manual preserved here. The manual_*_listings.txt files are searchable text excerpts of the source listings. Some lines were merged by document extraction; consult the DOCX for exact formatting.

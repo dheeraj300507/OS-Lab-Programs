@@ -1,0 +1,11 @@
+[Manual paragraph 269] Ex No: 2a               SHELL PROGRAMMING-LARGEST OF N NUMBERS                    Date:
+[Manual paragraph 272] To write a shell program to find largest of n numbers.
+[Manual paragraph 273] ALGORITHM:
+[Manual paragraph 282] PROGRAM:
+[Manual paragraph 283] #!/bin/bash
+[Manual paragraph 297] Thus, the program to find Largest of N numbers been implemented and the output was verified successfully.
+[Manual paragraph 298] Ex No: 2b          IMPLEMENTATION OF UNIX COMMANDS USING CASE	Date :
+[Manual paragraph 301] To write a shell program using case…esac to execute unix commands.
+[Manual paragraph 303] ALGORITHM:
+[Manual paragraph 311] PROGRAM:
+[Manual paragraph 326] Thus, the program for implementation of UNIX commands using case has been implemented and the output was verified successfully.

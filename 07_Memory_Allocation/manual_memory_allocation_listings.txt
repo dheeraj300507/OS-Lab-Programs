@@ -1,0 +1,12 @@
+[Manual paragraph 935] Ex.No: 7                               MEMORY ALLOCATION METHODS	Date :
+[Manual paragraph 937] FIRST FIT ALGORITHM:
+[Manual paragraph 945] PROGRAM
+[Manual paragraph 946] #include <stdio.h> #define MAX 10 int main()
+[Manual paragraph 981] BEST FIT ALGORITHM
+[Manual paragraph 986] PROGRAM
+[Manual paragraph 987] #include<stdio.h> void main()
+[Manual paragraph 1033] WORST FIT ALGORITHM
+[Manual paragraph 1045] PROGRAM
+[Manual paragraph 1046] #include <stdio.h> int main()
+[Manual paragraph 1052] printf("\n IMPLEMENTATION OF WORST-FIT ALGORITHM");
+[Manual paragraph 1117] Thus, the program for memory allocation methods has been implemented and the output was verified successfully.

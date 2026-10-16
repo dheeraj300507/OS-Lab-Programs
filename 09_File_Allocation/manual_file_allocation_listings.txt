@@ -1,0 +1,21 @@
+[Manual paragraph 1344] Ex No: 9A          CONTIGUOUS FILE ALLOCATION STRATEGIES	Date :
+[Manual paragraph 1347] To write a C program to implement contiguous file allocation techniques.
+[Manual paragraph 1349] ALGORITHM:
+[Manual paragraph 1355] PROGRAM:
+[Manual paragraph 1356] #include<stdio.h> #include<stdlib.h> int a[20],num=0;
+[Manual paragraph 1370] void main()
+[Manual paragraph 1408] Thus, the program for contiguous file allocations strategies has been implemented and the output was verified successfully.
+[Manual paragraph 1412] Ex No: 9B                 LINKED LIST FILE ALLOCATION STRATEGIES	Date :
+[Manual paragraph 1415] To write a C program to implementation linked list file allocation techniques.
+[Manual paragraph 1417] ALGORITHM:
+[Manual paragraph 1424] PROGRAM
+[Manual paragraph 1425] #include <stdio.h> #include <stdlib.h>
+[Manual paragraph 1426] int main()
+[Manual paragraph 1474] Thus, the program for Linked list file allocations strategies has been implemented and the output was verified successfully
+[Manual paragraph 1480] Ex No: 9C               INDEXED FILE ALLOCATION STRATEGIES	Date :
+[Manual paragraph 1483] To write a C program to implementation indexed file allocation techniques.
+[Manual paragraph 1485] ALGORITHM:
+[Manual paragraph 1491] PROGRAM
+[Manual paragraph 1492] #include <stdio.h>
+[Manual paragraph 1493] int main()
+[Manual paragraph 1545] Thus, the program for Indexed file allocations strategies has been implemented and the output was verified successfully

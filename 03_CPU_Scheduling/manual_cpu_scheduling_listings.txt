@@ -1,0 +1,28 @@
+[Manual paragraph 327] Ex No: 3A                                                 FCFS SCHEDULING	Date :
+[Manual paragraph 330] To write a „C‟ program to implement FCFS Scheduling.
+[Manual paragraph 332] ALGORITHM:
+[Manual paragraph 339] // FCFS SCHEDULING ALGORITHM
+[Manual paragraph 341] PROGRAM:
+[Manual paragraph 342] #include<stdio.h> void main()
+[Manual paragraph 383] Thus, the program for FCFS scheduling has been implemented and the output was verified successfully.
+[Manual paragraph 385] Ex No: 3B                                                    SJF SCHEDULING	Date :
+[Manual paragraph 387] To write a „C‟ program to implement SJF Scheduling.
+[Manual paragraph 388] ALGORITHM:
+[Manual paragraph 392] Swap all the processes in such a way that they are arranged in shortest job first (SJF) order. 5. Prepare the gantt chart for each process so that their waiting time, turn around time is calculated. 6. Calculate the average waiting time and average turn around time and display the result. // SJF SCHEDULING ALGORITHM
+[Manual paragraph 393] PROGRAM:
+[Manual paragraph 394] #include<stdio.h> void main()
+[Manual paragraph 444] Thus, the program for SJF scheduling has been implemented and the output was verified successfully.
+[Manual paragraph 447] Ex No: 3C                                 PRIORITY SCHEDULING	Date :
+[Manual paragraph 450] To write a „C‟ program to implement PRIORITY Scheduling.
+[Manual paragraph 452] ALGORITHM:
+[Manual paragraph 461] // PRIORITY SCHEDULING ALGORITHM
+[Manual paragraph 462] PROGRAM:
+[Manual paragraph 463] #include<stdio.h> void main()
+[Manual paragraph 512] Thus, the program for priority scheduling has been implemented and the output was verified successfully.
+[Manual paragraph 513] Ex No: 3D                                     ROUND ROBIN SCHEDULING	Date :
+[Manual paragraph 516] To write a „C‟ program to implement ROUND ROBIN Scheduling.
+[Manual paragraph 517] ALGORITHM:
+[Manual paragraph 522] Prepare the gantt chart for each process getting executed within the time slice in a round robin fashion. 6. Calculate the waiting time and turn around time along with their averages display the result. // ROUND ROBIN SCHEDULING ALGORITHM
+[Manual paragraph 523] PROGRAM:
+[Manual paragraph 524] #include<stdio.h> void main()
+[Manual paragraph 634] Thus, the program for Round Robin scheduling has been implemented and the output was verified successfully.

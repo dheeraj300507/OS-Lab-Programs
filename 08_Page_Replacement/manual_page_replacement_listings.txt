@@ -1,0 +1,18 @@
+[Manual paragraph 1120] Ex.No:8A                             FIFO PAGE REPLACEMENT ALGORITHM	Date :
+[Manual paragraph 1123] To write a c program to implement FIFO page replacement algorithm
+[Manual paragraph 1124] ALGORITHM
+[Manual paragraph 1134] PROGRAM:
+[Manual paragraph 1136] #include<stdio.h> int main()
+[Manual paragraph 1169] Thus, the program for FIFO page replacement algorithm has been implemented and the output was verified successfully.
+[Manual paragraph 1173] Ex No:8B                            LRU PAGE REPLACEMENT ALGORITHM	Date :
+[Manual paragraph 1176] ALGORITHM:
+[Manual paragraph 1187] PROGRAM
+[Manual paragraph 1188] #include<stdio.h> int main()
+[Manual paragraph 1249] Thus, the program for LRU page replacement alogrithm has been implemented and the output was verified successfully.
+[Manual paragraph 1254] Ex No:8C                  OPTIMAL PAGE REPLACEMENT ALGORITHM	Date:
+[Manual paragraph 1258] ALGORITHM:
+[Manual paragraph 1259] Here we select the page that will not be used for the longest period of time. 1. Start Program
+[Manual paragraph 1268] PROGRAM
+[Manual paragraph 1269] #include<stdio.h> int findmax(int*); int n;
+[Manual paragraph 1270] int main()
+[Manual paragraph 1341] Thus, the program for Optimal page replacement algorithm has been implemented and the output was verified successfully.

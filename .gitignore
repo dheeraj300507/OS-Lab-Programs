@@ -1,0 +1,14 @@
+# Build artifacts
+*.exe
+*.o
+*.out
+*.test_exe
+*.test_out
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*~
+Thumbs.db
+.DS_Store
